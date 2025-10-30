@@ -1,4 +1,4 @@
- Sign Language Recognition & Text-to-Speech System
+🖐️ Sign Language Recognition & Text-to-Speech System
 A real-time American Sign Language (ASL) recognition system that converts hand gestures into text and speech using Computer Vision and Deep Learning. Built with Python, OpenCV, TensorFlow, and a custom-trained CNN model, this project empowers accessibility by enabling hands-free communication through sign language.
 
 📸 Demo Video
